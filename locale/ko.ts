@@ -1,5 +1,4 @@
-// Korean desktop locale — partial; untranslated keys fall back to English via defineLocale().
-// Source of truth lives in J:\project\hermes-desktop-ko\locale; apply.ps1 copies it into the checkout.
+// Korean desktop locale (partial; untranslated keys fall back to English via defineLocale).
 import { defineLocale } from './define-locale'
 import { koCommandCenter } from './ko-command-center'
 import { koSettingsA } from './ko-settings-a'
